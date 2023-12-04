@@ -1,5 +1,5 @@
 # AWS-PRACTICALS #
-**What is cloud computing
+**What is cloud computing**
 + cloud comp[uting is the delivery of computing services including servers,storage,databases,networking,software etc.
 
 # **Benefits**
