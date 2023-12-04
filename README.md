@@ -225,3 +225,21 @@ can scale it
             minReplicas: 1
              maxReplicas: 10
             targetCPUUtilizationPercentage: 50
+    
+    nano hpa.yaml
+
++ deploying
+
+            kubectl apply -f hpa.yaml
+
+  ![25](https://github.com/ManavCodingspace/AWS-PRACTICALS/assets/145857624/a682af01-2876-4bcc-b9b4-6b052e904604)
+ + creating a load balancer type service
+
+   ![26](https://github.com/ManavCodingspace/AWS-PRACTICALS/assets/145857624/96732d8e-da04-423a-b2de-cfa98ea74438)
+
++ creating nodeport service
+
+  ![27](https://github.com/ManavCodingspace/AWS-PRACTICALS/assets/145857624/800db44c-dbab-49a1-b9aa-c70099912822)
+
+# **EKS**
+Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service that makes it easy for you to run Kubernetes on AWS and on-premises. Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
