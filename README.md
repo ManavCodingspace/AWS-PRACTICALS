@@ -81,8 +81,6 @@ backup. That data stored which are not needed instantly , eg old data . Takes ti
 
 ![10](https://github.com/ManavCodingspace/AWS-PRACTICALS/assets/145857624/5b94f88a-c315-4ad1-9182-7876ff0825de)
 
-![11](https://github.com/ManavCodingspace/AWS-PRACTICALS/assets/145857624/009c12a3-5b46-42b1-8208-7159e3459922)
-
 # **Creating Scalling policies**
 
 ![12](https://github.com/ManavCodingspace/AWS-PRACTICALS/assets/145857624/a90b7060-300d-4ec6-991f-289901dcaac9)
